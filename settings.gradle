@@ -1,0 +1,3 @@
+include ':adlibrary'
+include ':app'
+rootProject.name = "AdDemo"
